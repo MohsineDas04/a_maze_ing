@@ -32,8 +32,8 @@ This project was built to explore algorithmic complexity, Python package structu
 We have provided a Makefile to handle dependencies automatically.
 
 \# Clone the repository  
-git clone \[https://github.com/yourusername/a-maze-ing.git\](https://github.com/yourusername/a-maze-ing.git)  
-cd a-maze-ing
+git clone \[[https://github.com/yourusername/a-maze-ing.git\](https://github.com/yourusername/a-maze-ing.git)  
+cd a-maze-ing](https://github.com/MohsineDas04/a_maze_ing.git)
 
 \# Install dependencies  
 make install
