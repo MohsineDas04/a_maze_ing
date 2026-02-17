@@ -32,7 +32,7 @@ This project was built to explore algorithmic complexity, Python package structu
 We have provided a Makefile to handle dependencies automatically.
 
 \# Clone the repository  
-git clone [this](https://github.com/MohsineDas04/a_maze_ing.git)
+git clone this(https://github.com/MohsineDas04/a_maze_ing.git)
 
 \# Install dependencies  
 make install
